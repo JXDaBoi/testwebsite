@@ -82,3 +82,10 @@ body {
 .center-text {
   text-align: center;
 }
+
+#ld-mode {
+  display: inline-block;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
