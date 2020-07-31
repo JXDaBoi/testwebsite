@@ -83,7 +83,7 @@ body {
   text-align: center;
 }
 
-#ld-mode {
+.ld-mode {
   display: inline-block;
   position: relative;
   left: 50%;
