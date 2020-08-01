@@ -1,0 +1,25 @@
+{
+  "name": "testwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "gitignore": "^0.6.0",
+    "tailwindcss": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o style/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JXDaBoi/testwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JXDaBoi/testwebsite/issues"
+  },
+  "homepage": "https://github.com/JXDaBoi/testwebsite#readme"
+}
